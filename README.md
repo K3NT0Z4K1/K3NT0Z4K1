@@ -11,9 +11,9 @@
 
 ### About Me
 
-- BSIT student with strong interest in data, systems, and problem solving  
-- Currently learning backend development, databases, and data fundamentals  
-- Loves building school systems, web apps, and logic-heavy projects  
+- BSIT student focused on data, systems, and problem solving  
+- Currently building backend-driven and database-centered applications  
+- Interested in how data flows through real-world systems  
 
 ---
 
@@ -40,11 +40,13 @@
 
 - **NBSC Online Admission System**  
   Web-based admission system with application tracking, exam scheduling, and result management.  
-  Tech: PHP, MySQL, HTML, CSS, JavaScript  
+  Tech: PHP, MySQL, HTML, CSS, JavaScript
+  Repo: https://github.com/K3NT0Z4K1/NBSC-Online-Admission-System
 
 - **Codex Ignite Quiz**  
   Interactive IT quiz platform with dashboard, user stats, and multiple quiz categories.  
-  Tech: HTML, CSS, JavaScript  
+  Tech: HTML, CSS, JavaScript
+  Repo: https://codex-ignite.github.io/Web-App/
 
 - **Retro Space Shooter Game**  
   2D arcade-style shooting game built in Unity with game states, sound effects, and scoring system.  
