@@ -41,41 +41,45 @@
 
 ### Featured Projects
 
+#### 🚀 NBSC Online Admission System  
+A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
+Tech: PHP, MySQL, HTML, CSS, JavaScript  
 
+---
 
-- NBSC Online Admission System  
-  A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
-  Tech: PHP, MySQL, HTML, CSS, JavaScript  
+#### 🎮 Retro Space Shooter Game  
+A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
+Tech: Unity, C#  
 
-- Retro Space Shooter Game  
-  A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
-  Tech: Unity, C#  
+---
 
+### Organization & Group Projects
 
+#### 🧠 Codex Ignite Quiz  
+An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
+Tech: HTML, CSS, JavaScript  
 
-### Organizations & Group Projects
-
-- **Codex Ignite Quiz**  
-  An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
-  Tech: HTML, CSS, JavaScript
-  <p align="center">
+<p align="left">
   <a href="https://codex-ignite.github.io/Web-App/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Live%20Project-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
+---
 
-- **EcoProtean Proteus**  
-  Community-driven project focused on ecological responsibility and landslide prevention through mapping and data analysis.
-    <p align="center">
+#### 🌱 EcoProtean Proteus  
+A community-driven project focused on ecological responsibility and landslide prevention through mapping and data analysis.
+
+<p align="left">
   <a href="https://ecoprotean-proteus.github.io/Web-Application/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Live%20Project-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
+---
 
-- **Academic Group Projects (BSIT)**  
-  Built multiple systems and applications for school requirements including databases, web apps, and simulations.
+#### 🎓 Academic Group Projects (BSIT)  
+Built multiple systems and applications for school requirements including databases, web apps, and simulations.
 
 ### Currently Learning
 
