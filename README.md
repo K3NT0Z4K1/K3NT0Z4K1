@@ -40,21 +40,18 @@
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/K3NT0Z4K1/NBSC-Online-Admission-System">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Online-Admission-System&theme=radical&v=1"
-      alt="NBSC Online Admission System"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/K3NT0Z4K1/Codex-Ignite-Quiz">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Codex-Ignite-Quiz&theme=radical&v=1"
-      alt="Codex Ignite Quiz"
-    />
-  </a>
-</p>
+- NBSC Online Admission System  
+  A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
+  Tech: PHP, MySQL, HTML, CSS, JavaScript  
+
+- Codex Ignite Quiz  
+  An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
+  Tech: HTML, CSS, JavaScript  
+
+- Retro Space Shooter Game  
+  A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
+  Tech: Unity, C#  
+
 
 
 ### Organizations & Group Projects
