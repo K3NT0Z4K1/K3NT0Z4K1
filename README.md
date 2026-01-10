@@ -2,7 +2,7 @@
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="followers" />
 </p>
 
