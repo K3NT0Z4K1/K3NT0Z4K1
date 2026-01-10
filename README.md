@@ -1,11 +1,12 @@
 <h1 align="center">Yo 👋 I'm Kentozaki</h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Follow&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Role-BSIT%20Student-lightgrey?style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Follow&style=social"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Currently%20Learning-Data%20Engineering-0e75b6?style=flat"/>
+</p>
 
 </p>
 
