@@ -19,15 +19,11 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
 </p>
 
 ---
