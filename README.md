@@ -63,15 +63,15 @@
 ### Languages & Technologies Encountered
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
 
