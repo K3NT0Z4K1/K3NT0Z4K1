@@ -38,13 +38,21 @@
 
 ### Featured Projects
 
+### Featured Projects
+
 <p align="center">
   <a href="https://github.com/K3NT0Z4K1/NBSC-Online-Admission-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Online-Admission-System&theme=radical"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Online-Admission-System&theme=radical&v=1"
+      alt="NBSC Online Admission System"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/K3NT0Z4K1/Codex-Ignite-Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Codex-Ignite-Quiz&theme=radical"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Codex-Ignite-Quiz&theme=radical&v=1"
+      alt="Codex Ignite Quiz"
+    />
   </a>
 </p>
 
