@@ -41,7 +41,12 @@
 
 ### Featured Projects
 
-### Featured Projects
+<p align="center">
+  <a href="https://codex-ignite.github.io/Web-App/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Codex%20Ignite-blue?style=flat-square"/>
+  </a>
+</p>
+
 
 - NBSC Online Admission System  
   A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
@@ -49,7 +54,7 @@
 
 - Codex Ignite Quiz  
   An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
-  Tech: HTML, CSS, JavaScript  
+  Tech: HTML, CSS, JavaScript
 
 - Retro Space Shooter Game  
   A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
