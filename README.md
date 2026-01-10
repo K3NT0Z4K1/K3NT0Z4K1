@@ -32,7 +32,39 @@
 
 ---
 
-### GitHub Stats
+### Featured Projects
+
+- **NBSC Online Admission System**  
+  Web-based admission system with application tracking, exam scheduling, and result management.  
+  Tech: PHP, MySQL, HTML, CSS, JavaScript  
+
+- **Codex Ignite Quiz**  
+  Interactive IT quiz platform with dashboard, user stats, and multiple quiz categories.  
+  Tech: HTML, CSS, JavaScript  
+
+- **Retro Space Shooter Game**  
+  2D arcade-style shooting game built in Unity with game states, sound effects, and scoring system.  
+  Tech: Unity, C#  
+
+### Organizations & Group Projects
+
+- **EcoProtean Proteus**  
+  Community-driven project focused on ecological responsibility and landslide prevention through mapping and data analysis.
+
+- **Academic Group Projects (BSIT)**  
+  Built multiple systems and applications for school requirements including databases, web apps, and simulations.
+
+### Currently Learning
+
+- SQL optimization and database design  
+- Backend logic and system workflows  
+- Data fundamentals for analytics and engineering  
+- Version control and collaborative development  
+
+
+
+
+### Most Used Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -42,14 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-
-### Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&layout=compact&theme=radical"/>
-</p>
-
----
 
 ### Let's Connect
 
