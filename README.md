@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
 </p>
 
+### Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
+</p>
+
+
 ---
 
 ### Featured Projects
