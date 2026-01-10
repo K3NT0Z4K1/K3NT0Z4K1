@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Follow&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Role-BSIT%20Student-lightgrey?style=flat"/>
+
 </p>
 
 ---
