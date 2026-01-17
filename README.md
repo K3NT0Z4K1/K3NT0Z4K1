@@ -20,7 +20,7 @@
 
 ---
 
-### Tech Stack
+### Skill Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
