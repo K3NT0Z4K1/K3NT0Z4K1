@@ -31,10 +31,7 @@
 
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+ 
 </p>
 
 ### Profile Overview
