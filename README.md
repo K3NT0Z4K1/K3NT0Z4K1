@@ -14,8 +14,7 @@
 
 ### About Me
 
-- BSIT student focused on data, 
-
+- BSIT student focused on data,systems, and problem solving  
 
 ---
 
