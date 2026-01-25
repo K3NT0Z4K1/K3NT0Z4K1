@@ -16,7 +16,8 @@
 
 - BSIT student focused on data,systems, and problem solving  
 
-- Currently building backend-driven 
+- Currently building backend-driven and database-centered applications  
+
 
 
 ---
