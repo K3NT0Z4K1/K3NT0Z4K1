@@ -18,6 +18,8 @@
 
 - Currently building backend-driven and database-centered applications  
 
+- Interested in how data flows through real-world systems  
+
 
 
 ---
