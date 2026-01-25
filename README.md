@@ -16,6 +16,9 @@
 
 - BSIT student focused on data,systems, and problem solving  
 
+- Currently building backend-driven 
+
+
 ---
 
 ### Skill Stack
