@@ -14,9 +14,6 @@
 
 ### About Me
 
-- BSIT student focused on data, systems, and problem solving  
-- Currently building backend-driven and database-centered applications  
-- Interested in how data flows through real-world systems  
 
 ---
 
