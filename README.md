@@ -14,6 +14,8 @@
 
 ### About Me
 
+- BSIT student focused on data, 
+
 
 ---
 
