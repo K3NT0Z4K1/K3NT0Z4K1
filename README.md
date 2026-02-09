@@ -1,5 +1,5 @@
 <h1 align="center"> Yo 👋 I'm Kentozaki</h1>
-<h3 align="center">BSI Student | Aspiring Data Engineer</h3>
+<h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -132,7 +132,7 @@ Built multiple systems and applications for school requirements including databa
 </p>
 
 
-### Let's Connec
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k3nt0z4k1" target="_blank">
