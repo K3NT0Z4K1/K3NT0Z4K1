@@ -132,7 +132,7 @@ Built multiple systems and applications for school requirements including databa
 </p>
 
 
-### Let's Connect
+### Let's Connec
 
 <p align="center">
   <a href="https://www.linkedin.com/in/k3nt0z4k1" target="_blank">
