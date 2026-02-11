@@ -1,4 +1,4 @@
-<h1 align="center"> Yo 👋 I'm Kentozaki</h1>
+<h1 align="center"></h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
