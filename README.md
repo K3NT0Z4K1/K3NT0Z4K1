@@ -61,6 +61,9 @@
 
 ![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" alt="Profile Details" />
+
+
 
 ## GitHub Achievements
 
