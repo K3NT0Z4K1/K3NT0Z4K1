@@ -245,18 +245,7 @@
       <img src="https://iconic-api.onrender.com/dark/canva" width="48" height="48"/>
       <br>Canva
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_2019.svg" width="48" height="48"/>
-      <br>Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Word_2019.svg" width="48" height="48"/>
-      <br>Word
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_PowerPoint_2019.svg" width="48" height="48"/>
-      <br>PowerPoint
-    </td>
+    
   </tr>
 </table>
 
