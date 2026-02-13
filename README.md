@@ -49,6 +49,12 @@
 
 ### Profile Overview
 
+
+![](https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&show_icons=true&theme=dark)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=K3NT0Z4K1&theme=github-dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&theme=dark&layout=compact)
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
 </p>
