@@ -1,4 +1,4 @@
-I'm<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
+<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
@@ -105,6 +105,11 @@ I'm<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
 ### Programming Languages
 <table align="center">
   <tr>
+
+ <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+      <br>Java
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
       <br>Python
@@ -113,10 +118,7 @@ I'm<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
-      <br>Java
-    </td>
+   
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
       <br>C++
@@ -251,10 +253,6 @@ I'm<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="48" height="48"/>
       <br>YouTube
-    </td>
-    <td align="center" width="96">
-      <img src="https://eraser.io/favicon.ico" width="48" height="48"/>
-      <br>Eraser.io
     </td>
   </tr>
 </table>
