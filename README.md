@@ -103,34 +103,40 @@
 ---
 
 ### Programming Languages
+
 <table align="center">
   <tr>
-
- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
       <br>Java
     </td>
+
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/>
       <br>Python
     </td>
+
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/>
       <br>JavaScript
     </td>
-   
+
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
       <br>C++
     </td>
+
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/>
+      <br>C#
+    </td>
+
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
       <br>PHP
     </td>
   </tr>
 </table>
-
----
 
 ### Web & Application Development
 <table align="center">
