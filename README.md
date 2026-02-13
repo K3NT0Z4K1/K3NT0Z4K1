@@ -61,7 +61,28 @@
 
 ![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" alt="Profile Details" />
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K3NT0Z4K1&theme=radical" alt="Repos per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3NT0Z4K1&theme=radical" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3NT0Z4K1&theme=radical" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K3NT0Z4K1&theme=radical" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+</div>
+
 
 
 
