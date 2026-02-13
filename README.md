@@ -62,15 +62,13 @@
 ![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
 
 
+## GitHub Achievements
+
 <p align="center"> 
   <img src="https://trophygh.kolioaris.xyz/?username=K3NT0Z4K1&theme=onedark&margin-w=20&no-frame=true" alt="GitHub Trophy" /> 
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K3NT0Z4K1&theme=github-dark&border_radius=15" alt="GitHub Activity Graph" />
-</p>
 
 ## Languages & Technologies Encountered
 <p align="center" style="font-style: italic; font-size: 1.1em;">
