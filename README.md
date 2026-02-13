@@ -260,9 +260,10 @@
       <br>ChatGPT
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48"/>
-      <br>Claude
-    </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Anthropic_logo.svg" width="48" height="48"/>
+  <br>Claude
+</td>
+
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48"/>
       <br>Gemini
