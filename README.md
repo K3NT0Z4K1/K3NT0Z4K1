@@ -1,4 +1,4 @@
-<h1 align="center">HeYo 😎 I'm Kentozaki</h1>
+<h1 align="center">Yo 😝😝 I'm Kentozaki</h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
@@ -52,6 +52,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
 </p>
+
+
+### My Activity
+![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
+
 
 
 ---
