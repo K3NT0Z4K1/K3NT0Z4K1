@@ -1,4 +1,4 @@
-<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
+I'm<h1 align="center">Yo 🦖 I'm Kentozaki</h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
 <p align="center">
@@ -96,15 +96,13 @@
 
 
 ## Languages & Technologies Encountered
-
 <p align="center" style="font-style: italic; font-size: 1.05em;">
   All of these are technologies and tools I have encountered so far throughout my learning journey.
 </p>
 
 ---
 
-### Programming Languages & Core Tech
-
+### Programming Languages
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -124,8 +122,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/>
-      <br>C#
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
+      <br>PHP
     </td>
   </tr>
 </table>
@@ -133,7 +131,6 @@
 ---
 
 ### Web & Application Development
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -161,8 +158,7 @@
 
 ---
 
-### Databases & Backend Tools
-
+### Databases & Server Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -174,12 +170,12 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/>
-      <br>WordPress
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="48" height="48"/>
+      <br>XAMPP
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=xampp" width="48" height="48"/>
-      <br>XAMPP
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/>
+      <br>WordPress
     </td>
     <td></td>
   </tr>
@@ -187,8 +183,7 @@
 
 ---
 
-### IDEs, Editors & Dev Tools
-
+### IDEs & Development Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -208,7 +203,7 @@
       <br>WebStorm
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netbeans" width="48" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48"/>
       <br>NetBeans
     </td>
   </tr>
@@ -216,8 +211,7 @@
 
 ---
 
-### Embedded, Networking & Game Dev
-
+### Embedded, Networking & Game Development
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -232,10 +226,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="48" height="48"/>
       <br>Packet Tracer
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=embedded" width="48" height="48"/>
-      <br>Embedded Programming
-    </td>
+    <td></td>
     <td></td>
   </tr>
 </table>
@@ -243,7 +234,6 @@
 ---
 
 ### Design, Productivity & Platforms
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -255,11 +245,11 @@
       <br>Canva
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="48" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="48" height="48"/>
       <br>MS Office
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="48" height="48"/>
       <br>YouTube
     </td>
     <td align="center" width="96">
@@ -272,7 +262,6 @@
 ---
 
 ### AI Tools & Learning Platforms
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -295,7 +284,6 @@
   </tr>
 </table>
 
----
 
 ### Featured Projects
 
