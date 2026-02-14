@@ -50,38 +50,7 @@
 ### Profile Overview/Activities 
 
 
-![](https://github-readme-stats.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=dark)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=K3NT0Z4K1&theme=github-dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&theme=dark&layout=compact)
 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
-</p>
-
-![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
-
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K3NT0Z4K1&theme=radical" alt="Repos per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3NT0Z4K1&theme=radical" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3NT0Z4K1&theme=radical" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K3NT0Z4K1&theme=radical" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-</div>
 
 
 
