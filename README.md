@@ -197,6 +197,19 @@
       <br>NetBeans
     </td>
 
+<td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/>
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=webstorm" width="48" height="48"/>
+      <br>WebStorm
+    </td>
+
   </tr>
 </table>
 
