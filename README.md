@@ -191,6 +191,12 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
       <br>VS Code
     </td>
+
+   <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48"/>
+      <br>NetBeans
+    </td>
+
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/>
       <br>PyCharm
@@ -203,10 +209,7 @@
       <img src="https://skillicons.dev/icons?i=webstorm" width="48" height="48"/>
       <br>WebStorm
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48"/>
-      <br>NetBeans
-    </td>
+    
   </tr>
 </table>
 
