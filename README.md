@@ -1,6 +1,10 @@
 <h1 align="center">Yo 🦖 I'm Kentozaki</h1>
 <h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat"/>
   <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Follow&style=social"/>
