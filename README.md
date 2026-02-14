@@ -175,11 +175,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="48" height="48"/>
       <br>XAMPP
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/>
-      <br>WordPress
-    </td>
-  </tr>
+    
 </table>
 
 ---
