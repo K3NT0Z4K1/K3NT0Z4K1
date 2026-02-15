@@ -66,7 +66,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
 </p>
 
-![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
+<p align="center">
+
+![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&hide_border=true)
+
+
+
+</p>
+
 
 
 <div align="center">
