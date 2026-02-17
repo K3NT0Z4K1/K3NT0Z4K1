@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3NT0Z4K1&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&count_private=true" alt="Stats" height="192px" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K3NT0Z4K1&theme=radical" alt="Productive Time" />
