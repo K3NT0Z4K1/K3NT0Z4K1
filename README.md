@@ -195,7 +195,6 @@
     </td>
   </tr>
 </table>
----
 
 ### IDEs & Development Tools
 <table align="center">
