@@ -1,372 +1,156 @@
-<h1 align="center">Yo 👋 I'm Kentozaki</h1>
+
+<h1 align="center">⚡ Yo 👋 I'm Kentozaki ⚡</h1>
+
+<h3 align="center">💻 BSIT Student | 🚀 Aspiring Data Engineer | 📊 Backend & Data Focused</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-ff79c6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Currently%20Learning-Data%20Engineering-8be9fd?style=for-the-badge"/>
+</p>
 
-<h3 align="center">BSIT Student | Aspiring Data Engineer</h3>
+---
 
+## 🧠 About Me
+
+```diff
++ BSIT student focused on data, systems, and problem solving
++ Building backend-driven and database-centered applications
++ Interested in how data flows through real-world systems
++ Working toward becoming a Data Engineer
+````
+
+---
+
+# 🛠️ Tech Arsenal
+
+## 💻 Programming Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br>Java</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br>C#</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>PHP</td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Web & Application Development
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>NodeJS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48"/><br>Electron</td>
+  </tr>
+</table>
+
+---
+
+## 🗄️ Databases & Server Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="48"/><br>XAMPP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br>Firebase</td>
+  </tr>
+</table>
+
+---
+
+## 🧰 IDEs & Dev Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48"/><br>NetBeans</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=webstorm" width="48"/><br>WebStorm</td>
+  </tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Follow&style=social"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Currently%20Learning-Data%20Engineering-0e75b6?style=flat"/>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&theme=radical&layout=compact"/>
 </p>
 
 ---
 
-### About Me
+# 🚀 Featured Projects
 
-- BSIT student focused on data,systems, and problem solving  
+### 🎓 NBSC Online Admission System
 
-- Currently building backend-driven and database-centered applications  
-
-- Interested in how data flows through real-world systems  
-
-
+Full admission workflow system with applicant tracking, scheduling, and result management.
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-### Skill Stack
+### 🎮 Retro Space Shooter Game
+
+Classic-inspired 2D arcade shooter with state management and scoring logic.
+`Unity` `C#`
+
+---
+
+### 🧠 Codex Ignite Quiz
+
+Interactive IT learning platform focused on quiz-based reinforcement.
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🌱 EcoProtean Proteus
+
+Community-driven ecological mapping & landslide prevention project.
+
+---
+
+# 📚 Currently Leveling Up
+
+* Advanced SQL optimization
+* Backend architecture & workflows
+* Data pipelines & engineering fundamentals
+* Version control & collaborative systems
+
+---
+
+# 🌍 Let's Connect
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-  
-  
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
-
-  
-
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
-
- 
+  <a href="https://www.linkedin.com/in/k3nt0z4k1"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:kentryanpagong@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/K3NT0Z4K1"><img src="https://skillicons.dev/icons?i=facebook" width="35"/></a>
 </p>
 
-
 ---
-
-
-### Profile Overview/Activities 
-
-
-![](https://github-readme-stats.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=dark)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=K3NT0Z4K1&theme=github-dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&theme=dark&layout=compact)
-
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3NT0Z4K1&theme=radical" width="700px"/>
+✨ "Turning logic into systems and  into impact." ✨
 </p>
-
-<p align="center">
-
-![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=dark&hide_border=true)
-
-
-
-</p>
-
-
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K3NT0Z4K1&theme=radical" alt="Repos per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3NT0Z4K1&theme=radical" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=8be9fd&count_private=true" alt="Stats" height="192px" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K3NT0Z4K1&theme=radical" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-</div>
-
-
-
-## GitHub Achievements
-
-<p align="center"> 
-  <img src="https://trophygh.kolioaris.xyz/?username=K3NT0Z4K1&theme=onedark&margin-w=20&no-frame=true" alt="GitHub Trophy" /> 
-</p>
+```
 
 ---
-
-## Languages & Technologies Encountered
-<p align="center" style="font-style: italic; font-size: 1.05em;">
-  All of these are technologies and tools I have encountered so far throughout my learning journey.
-</p>
-
----
-
-### Programming Languages
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48"/>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
-      <br>PHP
-    </td>
-  </tr>
-</table>
-
----
-
-### Web & Application Development
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48"/>
-      <br>Electron
-    </td>
-  </tr>
-</table>
-
----
-
-### Databases & Server Tools
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="48" height="48"/>
-      <br>XAMPP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
-      <br>Firebase
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-### IDEs & Development Tools
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
-      <br>VS Code
-    </td>
-
-   <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48"/>
-      <br>NetBeans
-    </td>
-
-<td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/>
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48"/>
-      <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webstorm" width="48" height="48"/>
-      <br>WebStorm
-    </td>
-
-  </tr>
-</table>
-
----
-
-### Embedded, Networking & Game Development
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48"/>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48"/>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="48" height="48"/>
-      <br>Packet Tracer
-    </td>
-  </tr>
-</table>
-
----
-
-### Design, Productivity & Platforms
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/>
-      <br>WordPress
-    </td>
-<td align="center" width="96">
-      <img src="https://iconic-api.onrender.com/dark/canva" width="48" height="48"/>
-      <br>Canva
-    </td>
-  </tr>
-</table>
-
-
----
-
-### AI Tools & Learning Platforms
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48"/>
-      <br>ChatGPT
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48"/>
-      <br>Claude
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48"/>
-      <br>Gemini
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/>
-      <br>LeetCode
-    </td>
-  </tr>
-</table>
-
-
-
-
-### Featured Projects
-
-#### 🚀 NBSC Online Admission System  
-A full admission workflow system designed for school use, handling applicant tracking, exam scheduling, and result management.  
-Tech: PHP, MySQL, HTML, CSS, JavaScript  
-
----
-
-#### 🎮 Retro Space Shooter Game  
-A classic-inspired 2D arcade shooter developed in Unity, implementing game state management, scoring logic, and sound effects.  
-Tech: Unity, C#  
-
----
-
-### Organization & Group Projects
-
-#### 🧠 Codex Ignite Quiz  
-An interactive IT learning platform focused on reinforcing programming fundamentals through quizzes and user performance tracking.  
-Tech: HTML, CSS, JavaScript  
-
-<p align="left">
-  <a href="https://codex-ignite.github.io/Web-App/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
-
----
-
-#### 🌱 EcoProtean Proteus  
-A community-driven project focused on ecological responsibility and landslide prevention through mapping and data analysis.
-
-<p align="left">
-  <a href="https://ecoprotean-proteus.github.io/Web-Application/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live%20Project-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
-
----
-
-#### 🎓 Academic Group Projects (BSIT)  
-Built multiple systems and applications for school requirements including databases, web apps, and simulations.
-
-### Currently Learning
-
-- SQL optimization and database design  
-- Backend logic and system workflows  
-- Data fundamentals for analytics and engineering  
-- Version control and collaborative development  
-
-
-
-### Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/k3nt0z4k1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kentryanpagong@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" height="28" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/K3NT0Z4K1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="28" height="28" alt="Facebook"/>
-  </a>
-</p>
-
 
