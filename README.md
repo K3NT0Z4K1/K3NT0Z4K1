@@ -189,9 +189,12 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="48" height="48"/>
       <br>XAMPP
     </td>
-    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
+      <br>Firebase
+    </td>
+  </tr>
 </table>
-
 ---
 
 ### IDEs & Development Tools
