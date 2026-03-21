@@ -150,12 +150,10 @@
 <h2 align="center">🧩 LeetCode Stats</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/K3NT0Z4K1?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/kentozaki?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" width="500"/>
 </div>
 
-<div align="center">
-  <sub>🔗 Replace <code>K3NT0Z4K1</code> above with your actual LeetCode username if different</sub>
-</div>
+
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
