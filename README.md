@@ -6,7 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a52,60:0e75b6,85:00cfff,100:0e75b6&height=300&section=header&text=KENTOZAKI&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=BSIT%20Student%20%7C%20Aspiring%20Data%20Engineer%20%7C%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines&descAlignY=63&descSize=21&descColor=a8dcf0" width="100%"/>
 </div>
 
-<!-- Neon flow banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 </div>
