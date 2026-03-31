@@ -19,7 +19,7 @@
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=😑%20Profile%20Views&color=0e75b6&style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=🤔%20Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
   &nbsp;
