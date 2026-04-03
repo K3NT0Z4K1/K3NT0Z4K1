@@ -1,13 +1,14 @@
 <!-- ============================================================ -->
-<!--                  ██  HEADER  ██                            -->
+<!--                  â–ˆâ–ˆ  HEADER  â–ˆâ–ˆ                            -->
 <!-- ============================================================ -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a52,60:0e75b6,85:00cfff,100:0e75b6&height=300&section=header&text=KENTOZAKI&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=BSIT%20Student%20%7C%20Aspiring%20Data%20Engineer%20%7C%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines&descAlignY=63&descSize=21&descColor=a8dcf0" width="100%"/>
 </div>
 
+<!-- Animated wave divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
@@ -19,28 +20,29 @@
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=🙂%20Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=🤔%20Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/followers/K3NT0Z4K1?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯%20Focus-Backend%20%26%20Data-00cfff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-00cfff?style=for-the-badge&labelColor=0d1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/📚%20Learning-Data%20Engineering-0e75b6?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Learning-Data%20Engineering-0e75b6?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                  ██  ABOUT ME  ██                          -->
+<!--                  â–ˆâ–ˆ  ABOUT ME  â–ˆâ–ˆ                          -->
 <!-- ============================================================ -->
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"/>
-  &nbsp;About Me
+  &nbsp;About Me&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"/>
 </h2>
 
 <div align="center">
@@ -48,16 +50,15 @@
     <tr>
       <td valign="top" width="52%">
         <br/>
-        <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=K3NT0Z4K1.K3NT0Z4K1" />
         <ul>
-          <li>🎓 &nbsp;<b>BSIT student</b> focused on data, systems & problem solving</li>
-          <li>🛠️ &nbsp;Building <b>backend-driven</b> and <b>database-centered</b> applications</li>
-          <li>🌊 &nbsp;Fascinated by <b>how data flows</b> through real-world systems</li>
-          <li>📍 &nbsp;Based in <b>Philippines</b> 🇵🇭</li>
-          <li>💡 &nbsp;Always <b>experimenting</b> with new tools & frameworks</li>
-          <li>🤝 &nbsp;Open to <b>collaborations</b> and cool projects</li>
-          <li>🎯 &nbsp;End goal: <b>Professional Data Engineer</b></li>
-          <li>⚡ &nbsp;Fun fact: I debug better at <b>2AM</b> than 2PM</li>
+          <li>ðŸŽ“ &nbsp;<b>BSIT student</b> focused on data, systems & problem solving</li>
+          <li>ðŸ› ï¸ &nbsp;Building <b>backend-driven</b> and <b>database-centered</b> applications</li>
+          <li>ðŸŒŠ &nbsp;Fascinated by <b>how data flows</b> through real-world systems</li>
+          <li>ðŸ“ &nbsp;Based in <b>Philippines</b> ðŸ‡µðŸ‡­</li>
+          <li>ðŸ’¡ &nbsp;Always <b>experimenting</b> with new tools & frameworks</li>
+          <li>ðŸ¤ &nbsp;Open to <b>collaborations</b> and cool projects</li>
+          <li>ðŸŽ¯ &nbsp;End goal: <b>Professional Data Engineer</b></li>
+          <li>âš¡ &nbsp;Fun fact: I debug better at <b>2AM</b> than 2PM</li>
         </ul>
         <br/>
       </td>
@@ -70,13 +71,17 @@
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                  ██  SKILL STACK  ██                       -->
+<!--                  â–ˆâ–ˆ  SKILL STACK  â–ˆâ–ˆ                       -->
 <!-- ============================================================ -->
 
-<h2 align="center">⚡ Core Skill Stack</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDk2MjUyYTNmYzJiMGQ2YTBkMmZiOGM5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+  &nbsp;Core Skill Stack&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDk2MjUyYTNmYzJiMGQ2YTBkMmZiOGM5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -91,13 +96,17 @@
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  GITHUB STATS  ██                         -->
+<!--               â–ˆâ–ˆ  GITHUB STATS  â–ˆâ–ˆ                         -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+  &nbsp;GitHub Stats & Activity&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+</h2>
 
 <!-- Row 1: Stats + Langs -->
 <div align="center">
@@ -140,29 +149,35 @@
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  LEETCODE STATS  ██                       -->
+<!--               â–ˆâ–ˆ  LEETCODE STATS  â–ˆâ–ˆ                       -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧩 LeetCode Stats</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35px"/>
+  &nbsp;LeetCode Stats&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35px"/>
+</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kentozaki?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/kentozaki?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
 </div>
-
-
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  TROPHIES  ██                             -->
+<!--               â–ˆâ–ˆ  TROPHIES  â–ˆâ–ˆ                             -->
 <!-- ============================================================ -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/>
+  &nbsp;GitHub Trophies&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/>
+</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=K3NT0Z4K1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" width="820"/>
@@ -170,13 +185,17 @@
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  SNAKE  ██                                -->
+<!--               â–ˆâ–ˆ  SNAKE  â–ˆâ–ˆ                                -->
 <!-- ============================================================ -->
 
-<h2 align="center">🐍 Watch Me Eat My Commits</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35px"/>
+  &nbsp;Watch Me Eat My Commits&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35px"/>
+</h2>
 
 <div align="center">
   <picture>
@@ -184,33 +203,45 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K3NT0Z4K1/K3NT0Z4K1/output/github-snake.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/K3NT0Z4K1/K3NT0Z4K1/output/github-snake.svg" width="820"/>
   </picture>
-  <br/>
-  <sub>⚙️ Activate the snake by adding the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo</sub>
+</div>
+
+<!-- Note: To activate the snake animation, you need to set up GitHub Actions -->
+<!-- Create .github/workflows/snake.yml with the Platane/snk action -->
+<div align="center">
+  <sub>ðŸ’¡ Activate by adding <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo</sub>
 </div>
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  QUOTE  ██                                -->
+<!--               â–ˆâ–ˆ  QUOTE  â–ˆâ–ˆ                                -->
 <!-- ============================================================ -->
 
-<h2 align="center">💬 Dev Quote of the Day</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/>
+  &nbsp;Dev Quote of the Day&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"/>
+</h2>
 
 <div align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" width="720"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="720"/>
 </div>
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--           ██  FULL TECH STACK  ██                          -->
+<!--           â–ˆâ–ˆ  FULL TECH STACK  â–ˆâ–ˆ                          -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧰 Full Tech Stack & Tools</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35px"/>
+  &nbsp;Full Tech Stack & Tools&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35px"/>
+</h2>
 
 <div align="center">
   <i>Every technology and tool I've encountered throughout my learning journey</i>
@@ -218,8 +249,8 @@
 
 <br/>
 
-<!-- ── Unified skillicons megagrid ── -->
-<h3 align="center">🔧 All Tools at a Glance</h3>
+<!-- â”€â”€ Unified skillicons megagrid â”€â”€ -->
+<h3 align="center">ðŸ”§ All Tools at a Glance</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php,html,css,react,nodejs,electron,mysql,postgres,firebase,vscode,pycharm,idea,webstorm,arduino,unity,figma,wordpress,git,github&perline=12" />
@@ -227,10 +258,10 @@
 
 <br/>
 
-<!-- ── Grouped tables ── -->
+<!-- â”€â”€ Grouped tables â”€â”€ -->
 
 <details>
-<summary><b>🖥️ Click to expand detailed tech breakdown</b></summary>
+<summary><b>ðŸ–¥ï¸ Click to expand detailed tech breakdown</b></summary>
 
 <br/>
 
@@ -297,24 +328,24 @@
   </table>
 </div>
 
-<h3 align="center">Design, Productivity & Platforms</h3>
+<h3 align="center">Design & Productivity</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br>Figma</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/><br>WordPress</td>
-      <td align="center" width="96"><img src="https://iconic-api.onrender.com/dark/canva" width="48" height="48"/><br>Canva</td>
+      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/><br>Canva</td>
     </tr>
   </table>
 </div>
 
-<h3 align="center">AI Tools & Learning Platforms</h3>
+<h3 align="center">AI Tools & Learning</h3>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48"/><br>ChatGPT</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic" width="48" height="48"/><br>Claude</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini" width="48" height="48"/><br>Gemini</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="48" height="48"/><br>Claude</td>
+      <td align="center" width="96"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48"/><br>Gemini</td>
       <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"/><br>LeetCode</td>
     </tr>
   </table>
@@ -324,25 +355,29 @@
 
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               ██  PROJECTS  ██                             -->
+<!--               â–ˆâ–ˆ  PROJECTS  â–ˆâ–ˆ                             -->
 <!-- ============================================================ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px"/>
+  &nbsp;Featured Projects&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30px"/>
+</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🏫 NBSC Online Admission System</h3>
+        <h3 align="center">ðŸ« NBSC Online Admission System</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Admission&theme=tokyonight&hide_border=true" alt="Admission System"/>
+          <a href="https://github.com/K3NT0Z4K1/NBSC-Admission" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Admission&theme=tokyonight&hide_border=true" alt="Admission System"/>
           </a>
         </div>
-        <p align="center">A full admission workflow system for school use — applicant tracking, exam scheduling, result management.</p>
+        <p align="center">A full admission workflow system for school use â€” applicant tracking, exam scheduling, result management.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -351,10 +386,10 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎮 Retro Space Shooter Game</h3>
+        <h3 align="center">ðŸŽ® Retro Space Shooter Game</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Space-Shooter&theme=tokyonight&hide_border=true" alt="Space Shooter"/>
+          <a href="https://github.com/K3NT0Z4K1/Space-Shooter" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Space-Shooter&theme=tokyonight&hide_border=true" alt="Space Shooter"/>
           </a>
         </div>
         <p align="center">Classic-inspired 2D arcade shooter with game state management, scoring logic, and full sound design.</p>
@@ -369,13 +404,13 @@
 
 <br/>
 
-<h2 align="center">🤝 Organization & Group Projects</h2>
+<h2 align="center">ðŸ¤ Organization & Group Projects</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🧠 Codex Ignite Quiz</h3>
+        <h3 align="center">ðŸ§  Codex Ignite Quiz</h3>
         <p align="center">Interactive IT learning platform reinforcing programming fundamentals through quizzes and user performance tracking.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -384,17 +419,17 @@
         </p>
         <p align="center">
           <a href="https://codex-ignite.github.io/Web-App/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ðŸŒ%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🌱 EcoProtean Proteus</h3>
-        <p align="center">Community-driven ecological responsibility project — landslide prevention through mapping and real-time data analysis.</p>
+        <h3 align="center">ðŸŒ± EcoProtean Proteus</h3>
+        <p align="center">Community-driven ecological responsibility project â€” landslide prevention through mapping and real-time data analysis.</p>
         <br/>
         <p align="center">
           <a href="https://ecoprotean-proteus.github.io/Web-Application/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ðŸŒ%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </p>
       </td>
@@ -402,136 +437,43 @@
   </table>
 </div>
 
-<div align="center">
-  <h3>🎓 Academic Group Projects (BSIT)</h3>
-  <p>Databases, web apps, simulations, and systems built for school requirements — each one a learning milestone.</p>
-</div>
-
 <!-- ============================================================ -->
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--          ██  LEARNING + ROADMAP  ██                        -->
+<!--               â–ˆâ–ˆ  CONNECT  â–ˆâ–ˆ                              -->
 <!-- ============================================================ -->
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30px"/>
+  &nbsp;Let's Connect&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30px"/>
+</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL%20Optimization-0e75b6?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20Systems-00cfff?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-0e75b6?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20Collaboration-00cfff?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20for%20Data-0e75b6?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-<br/>
-
-<h2 align="center">🗺️ My Data Engineering Roadmap</h2>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║            🚀  DATA ENGINEERING PATH — KENTOZAKI          ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  ✅  SQL Fundamentals & Relational Design                 ║
-║  ✅  Backend Development (PHP / Node.js)                  ║
-║  ✅  Database Management (MySQL / PostgreSQL)             ║
-║  🔄  Python for Data Processing & Scripting               ║
-║  🔄  REST APIs & System Integration                       ║
-║  📌  ETL Pipelines & Workflow Automation                  ║
-║  📌  Apache Airflow / Workflow Orchestration              ║
-║  📌  Cloud Platforms — AWS / GCP Basics                   ║
-║  📌  Big Data Tools — Spark / Kafka Fundamentals          ║
-║  📌  Data Modeling & Dimensional Design                   ║
-║  🌟  [FINAL BOSS] — Data Engineer @ Scale                 ║
-║                                                           ║
-║  ✅ Done  🔄 In Progress  📌 Upcoming  🌟 Dream Goal      ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ============================================================ -->
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
-
-<!-- ============================================================ -->
-<!--            ██  FUN CODING STATS  ██                       -->
-<!-- ============================================================ -->
-
-<h2 align="center">⚡ Real Talk — Coding Stats</h2>
-
-<div align="center">
-
-```javascript
-const kentozaki = {
-  preferredCodingTime  : "11PM → 3AM 🌙",
-  cupsOfCoffeePerDay   : "Dangerous amounts ☕",
-  bugsCreatedToday     : 5,
-  bugsFixedToday       : 3,   // net: -2 (it's fine, it's fine)
-  tabsVsSpaces         : "Tabs. Final answer. No debate.",
-  whenGoogleIsDown     : "Genuine panic 😰",
-  debuggingMethod      : "console.log everything until it works",
-  favoriteErrorMessage : "NullPointerException (we have history)",
-  currentlyObsessedWith: "Making databases go brrr 🗄️",
-  lifePhilosophy       : "Data is the new oil. I'm learning to drill. 🛢️"
-};
-```
-
-</div>
-
-<!-- ============================================================ -->
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6fe4dcc1b1ce.gif"/>
-
-<!-- ============================================================ -->
-<!--               ██  CONNECT  ██                              -->
-<!-- ============================================================ -->
-
-<h2 align="center">📬 Let's Connect & Build Something</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/k3nt0z4k1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/K3NT0Z4K1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:kentryanpagong@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/K3NT0Z4K1" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/K3NT0Z4K1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://leetcode.com/kentozaki">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00CFFF&center=true&vCenter=true&width=600&lines=Always+open+to+new+ideas+and+collaborations+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A9;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Connect typing"/>
-</div>
-
-<br/>
-
-<!-- Footer animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
-</div>
-
 <!-- ============================================================ -->
-<!--               ██  FOOTER WAVE  ██                          -->
+<!-- FOOTER -->
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00cfff,100:0e75b6&height=140&section=footer&fontSize=28&fontColor=ffffff&animation=twinkling&desc=Thanks%20for%20stopping%20by!%20%F0%9F%91%8B&descAlignY=65&descSize=18&descColor=a8dcf0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a52,60:0e75b6,85:00cfff,100:0e75b6&height=150&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
+
+<div align="center">
+  <sub>â­ From <a href="https://github.com/K3NT0Z4K1">K3NT0Z4K1</a> with ðŸ’™</sub>
 </div>
