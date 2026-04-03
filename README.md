@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!--                  â–ˆâ–ˆ  HEADER  â–ˆâ–ˆ                            -->
+<!--                  ██  HEADER  ██                            -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -36,7 +36,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                  â–ˆâ–ˆ  ABOUT ME  â–ˆâ–ˆ                          -->
+<!--                  ██  ABOUT ME  ██                          -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -51,14 +51,14 @@
       <td valign="top" width="52%">
         <br/>
         <ul>
-          <li>ðŸŽ“ &nbsp;<b>BSIT student</b> focused on data, systems & problem solving</li>
-          <li>ðŸ› ï¸ &nbsp;Building <b>backend-driven</b> and <b>database-centered</b> applications</li>
-          <li>ðŸŒŠ &nbsp;Fascinated by <b>how data flows</b> through real-world systems</li>
-          <li>ðŸ“ &nbsp;Based in <b>Philippines</b> ðŸ‡µðŸ‡­</li>
-          <li>ðŸ’¡ &nbsp;Always <b>experimenting</b> with new tools & frameworks</li>
-          <li>ðŸ¤ &nbsp;Open to <b>collaborations</b> and cool projects</li>
-          <li>ðŸŽ¯ &nbsp;End goal: <b>Professional Data Engineer</b></li>
-          <li>âš¡ &nbsp;Fun fact: I debug better at <b>2AM</b> than 2PM</li>
+          <li>🎓 &nbsp;<b>BSIT student</b> focused on data, systems & problem solving</li>
+          <li>🛠️ &nbsp;Building <b>backend-driven</b> and <b>database-centered</b> applications</li>
+          <li>🌊 &nbsp;Fascinated by <b>how data flows</b> through real-world systems</li>
+          <li>📍 &nbsp;Based in <b>Philippines</b> 🇵🇭</li>
+          <li>💡 &nbsp;Always <b>experimenting</b> with new tools & frameworks</li>
+          <li>🤝 &nbsp;Open to <b>collaborations</b> and cool projects</li>
+          <li>🎯 &nbsp;End goal: <b>Professional Data Engineer</b></li>
+          <li>⚡ &nbsp;Fun fact: I debug better at <b>2AM</b> than 2PM</li>
         </ul>
         <br/>
       </td>
@@ -74,7 +74,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                  â–ˆâ–ˆ  SKILL STACK  â–ˆâ–ˆ                       -->
+<!--                  ██  SKILL STACK  ██                       -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -99,7 +99,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  GITHUB STATS  â–ˆâ–ˆ                         -->
+<!--               ██  GITHUB STATS  ██                         -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -152,7 +152,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  LEETCODE STATS  â–ˆâ–ˆ                       -->
+<!--               ██  LEETCODE STATS  ██                       -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -170,7 +170,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  TROPHIES  â–ˆâ–ˆ                             -->
+<!--               ██  TROPHIES  ██                             -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -188,7 +188,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  SNAKE  â–ˆâ–ˆ                                -->
+<!--               ██  SNAKE  ██                                -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -208,7 +208,7 @@
 <!-- Note: To activate the snake animation, you need to set up GitHub Actions -->
 <!-- Create .github/workflows/snake.yml with the Platane/snk action -->
 <div align="center">
-  <sub>ðŸ’¡ Activate by adding <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo</sub>
+  <sub>💡 Activate by adding <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo</sub>
 </div>
 
 <!-- ============================================================ -->
@@ -216,7 +216,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  QUOTE  â–ˆâ–ˆ                                -->
+<!--               ██  QUOTE  ██                                -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -234,7 +234,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--           â–ˆâ–ˆ  FULL TECH STACK  â–ˆâ–ˆ                          -->
+<!--           ██  FULL TECH STACK  ██                          -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -249,8 +249,8 @@
 
 <br/>
 
-<!-- â”€â”€ Unified skillicons megagrid â”€â”€ -->
-<h3 align="center">ðŸ”§ All Tools at a Glance</h3>
+<!-- ── Unified skillicons megagrid ── -->
+<h3 align="center">🔧 All Tools at a Glance</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,php,html,css,react,nodejs,electron,mysql,postgres,firebase,vscode,pycharm,idea,webstorm,arduino,unity,figma,wordpress,git,github&perline=12" />
@@ -258,10 +258,10 @@
 
 <br/>
 
-<!-- â”€â”€ Grouped tables â”€â”€ -->
+<!-- ── Grouped tables ── -->
 
 <details>
-<summary><b>ðŸ–¥ï¸ Click to expand detailed tech breakdown</b></summary>
+<summary><b>🖥️ Click to expand detailed tech breakdown</b></summary>
 
 <br/>
 
@@ -358,7 +358,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  PROJECTS  â–ˆâ–ˆ                             -->
+<!--               ██  PROJECTS  ██                             -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -371,13 +371,13 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">ðŸ« NBSC Online Admission System</h3>
+        <h3 align="center">🏫 NBSC Online Admission System</h3>
         <div align="center">
           <a href="https://github.com/K3NT0Z4K1/NBSC-Admission" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Admission&theme=tokyonight&hide_border=true" alt="Admission System"/>
           </a>
         </div>
-        <p align="center">A full admission workflow system for school use â€” applicant tracking, exam scheduling, result management.</p>
+        <p align="center">A full admission workflow system for school use — applicant tracking, exam scheduling, result management.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -386,7 +386,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">ðŸŽ® Retro Space Shooter Game</h3>
+        <h3 align="center">🎮 Retro Space Shooter Game</h3>
         <div align="center">
           <a href="https://github.com/K3NT0Z4K1/Space-Shooter" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Space-Shooter&theme=tokyonight&hide_border=true" alt="Space Shooter"/>
@@ -404,13 +404,13 @@
 
 <br/>
 
-<h2 align="center">ðŸ¤ Organization & Group Projects</h2>
+<h2 align="center">🤝 Organization & Group Projects</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">ðŸ§  Codex Ignite Quiz</h3>
+        <h3 align="center">🧠 Codex Ignite Quiz</h3>
         <p align="center">Interactive IT learning platform reinforcing programming fundamentals through quizzes and user performance tracking.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -419,17 +419,17 @@
         </p>
         <p align="center">
           <a href="https://codex-ignite.github.io/Web-App/" target="_blank">
-            <img src="https://img.shields.io/badge/ðŸŒ%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
+            <img src="https://img.shields.io/badge/🌐%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">ðŸŒ± EcoProtean Proteus</h3>
-        <p align="center">Community-driven ecological responsibility project â€” landslide prevention through mapping and real-time data analysis.</p>
+        <h3 align="center">🌱 EcoProtean Proteus</h3>
+        <p align="center">Community-driven ecological responsibility project — landslide prevention through mapping and real-time data analysis.</p>
         <br/>
         <p align="center">
           <a href="https://ecoprotean-proteus.github.io/Web-Application/" target="_blank">
-            <img src="https://img.shields.io/badge/ðŸŒ%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
+            <img src="https://img.shields.io/badge/🌐%20View%20Live-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </p>
       </td>
@@ -442,7 +442,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-97e1-6fe4dcc1b1ce.gif" width="100%"/>
 
 <!-- ============================================================ -->
-<!--               â–ˆâ–ˆ  CONNECT  â–ˆâ–ˆ                              -->
+<!--               ██  CONNECT  ██                              -->
 <!-- ============================================================ -->
 
 <h2 align="center">
@@ -475,5 +475,5 @@
 </div>
 
 <div align="center">
-  <sub>â­ From <a href="https://github.com/K3NT0Z4K1">K3NT0Z4K1</a> with ðŸ’™</sub>
+  <sub>⭐ From <a href="https://github.com/K3NT0Z4K1">K3NT0Z4K1</a> with 💙</sub>
 </div>
