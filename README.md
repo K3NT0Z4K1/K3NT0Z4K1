@@ -203,14 +203,16 @@ ChatGPT • Claude • Gemini • LeetCode
 <details>
 <summary align="center"><b>🐍 Contribution Snake</b></summary>
 
+
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K3NT0Z4K1/K3NT0Z4K1/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K3NT0Z4K1/K3NT0Z4K1/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/K3NT0Z4K1/K3NT0Z4K1/output/github-snake.svg" width="100%"/>
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 </div>
 
 <br/>
