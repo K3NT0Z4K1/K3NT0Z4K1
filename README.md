@@ -13,7 +13,7 @@
 
 <br/>
 
-<!-- Badges -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=K3NT0Z4K1&color=0e75b6&style=flat"/>
   <img src="https://img.shields.io/github/followers/K3NT0Z4K1?style=flat&color=0e75b6"/>
