@@ -138,7 +138,8 @@ const kentozaki = {
 ## <img src="https://cdn.simpleicons.org/statuspage/FFFFFF" width="25"/> Current Activity
 
 <!-- Spotify Now Playing -->
-[![Spotify](https://spotify-github-readme-rho.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://spotify-github-readme-rho.vercel.app/api/spotify)](https://open.spotify.com/user/31gq3h2khrfzyresuqbuge4mcnmi?si=sfQfasi0TMWCgm2X-SawTg)
+
 
 **<img src="https://cdn.simpleicons.org/spotify/1DB954" width="16"/> Currently listening to:** `Lo-Fi Beats`
 
