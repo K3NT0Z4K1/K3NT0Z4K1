@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=KENTOZAKI;Full+Stack+Developer;Data+Engineer;Backend+Specalist)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=KENTOZAKI;Full+Stack+Developer;Data+Engineer;Backend+Specialist)
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20digital%20space&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
