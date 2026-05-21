@@ -157,7 +157,7 @@ const kentozaki = {
 
 <div align="center">
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="25"/> Competitive Programming
+## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="25"/> Competitive Programmin
 
 <img src="https://leetcard.jacoblin.cool/kentozaki?theme=nord&font=Fira%20Code&ext=contest&border=0" width="45%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Admission&theme=radical&hide_border=true&bg_color=0D1117" width="45%"/>
