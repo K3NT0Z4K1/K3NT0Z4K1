@@ -11,6 +11,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K3NT0Z4K1&style=flat&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/K3NT0Z4K1?style=flat&color=yellow)
 ![Followers](https://img.shields.io/github/followers/K3NT0Z4K1?style=flat&color=0e75b6)
 
 </div>
@@ -78,39 +79,6 @@ const about = {
 <br/>
 
 <!-- ============================================================ -->
-<!--                  FEATURED PROJECTS                          -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-## <img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Featured Projects
-
-<a href="https://github.com/K3NT0Z4K1/NBSC-Admission">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=NBSC-Admission&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
-</a>
-<a href="https://github.com/K3NT0Z4K1/Space-Shooter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=K3NT0Z4K1&repo=Space-Shooter&theme=radical&hide_border=true&bg_color=0D1117" width="48%"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--                  LEETCODE                                   -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> LeetCode
-
-<img src="https://leetcard.jacoblin.cool/kentozaki?theme=nord&font=Fira%20Code&border=0" width="50%"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
 <!--                  CONNECT                                    -->
 <!-- ============================================================ -->
 
@@ -119,7 +87,6 @@ const about = {
 ## <img src="https://cdn.simpleicons.org/connectdevelop/FFFFFF" width="20"/> Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K3NT0Z4K1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kentozaki)
 
 </div>
 
