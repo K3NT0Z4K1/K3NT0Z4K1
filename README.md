@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Kentozaki;BSIT+Student;Aspirng+Data+Engineer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Kentozaki;BSIT+Student;Aspiring+Data+Engineer)
 
 </div>
 
