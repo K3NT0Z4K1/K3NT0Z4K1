@@ -54,7 +54,7 @@ const about = {
 
 ## <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20"/> GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=K3NT0Z4K1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=K3NT0Z4K1&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="49%" />
 
 
 <br/>
