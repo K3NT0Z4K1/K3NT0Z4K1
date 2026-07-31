@@ -60,11 +60,7 @@ const about = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3NT0Z4K1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=6" width="45%" />
 
-</div>
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                  ACTIVITY GRAPH                             -->
@@ -78,19 +74,6 @@ const about = {
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                  CONNECT                                    -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-## <img src="https://cdn.simpleicons.org/connectdevelop/FFFFFF" width="20"/> Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K3NT0Z4K1)
-
-</div>
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                  FOOTER                                     -->
