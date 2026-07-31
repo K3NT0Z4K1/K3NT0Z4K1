@@ -26,7 +26,7 @@
 const about = {
     location: "Philippines",
     education: "BS Information Technology",
-    interests: ["Data Engineering", "Backend Development", "Databases"],
+    interests: ["Data Engineering", "Backend Development", "Databases"]
 };
 ```
 
