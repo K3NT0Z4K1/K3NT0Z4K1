@@ -62,19 +62,6 @@ const about = {
 
 
 <!-- ============================================================ -->
-<!--                  ACTIVITY GRAPH                             -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K3NT0Z4K1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="90%"/>
-
-</div>
-
-<br/>
-
-
-<!-- ============================================================ -->
 <!--                  FOOTER                                     -->
 <!-- ============================================================ -->
 
